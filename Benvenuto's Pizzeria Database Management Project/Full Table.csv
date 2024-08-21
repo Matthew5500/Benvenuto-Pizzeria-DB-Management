@@ -1,0 +1,6 @@
+﻿row_id,order_id,created_at,item_name,item_cat,item_size,item_price,quantity,delivery,cust_firstname,cust_lastname,delivery_address1,delivery_address2,delivery_city,delivery_zipcode
+1,ORD_001,14/05/2024 12:35,Margherita,Pizza,Regular,13,2,Y,Amanda ,Thompson,789 Elm St,793 Elm St,Toronto,M5H 2N2
+2,ORD_002,16/05/2024 1:30,Caesar Salad,Sides,Regular,7,1,Y,Michael,Rivera,789 Elm St,,Ottawa,K1P 1A4
+3,ORD_003,20/05/2024 2:07,Diavola,Pizza,Large,19,1,Y,Sarah,Nguyen,789 Elm St,,Mississauga,L5B 3C2
+4,ORD_004,26/05/2024 12:22,Coca Cola,Beverages,1.5L,4,2,Y,Emily,Rodriguez,789 Elm St,773 Elm St,Hamilton,L8P 1H5
+5,ORD_005,01/06/2024 11:00,Garlic Bread,Sides,Regular,6,1,Y,David,Johnson,789 Elm St,,London,N6A 1C9

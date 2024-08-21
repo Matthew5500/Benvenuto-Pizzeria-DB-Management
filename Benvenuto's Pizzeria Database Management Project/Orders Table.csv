@@ -1,0 +1,6 @@
+row_id,order_id,created_at,item_id,quantity,cust_id,delivery,add_id
+1,ORD_001,2024-05-14,it001,2,1,Y,add1
+2,ORD_002,2024-05-16,it020,1,2,Y,add2
+3,ORD_003,2024-05-20,it004,1,3,Y,add3
+4,ORD_004,2024-05-26,it029,2,4,Y,add4
+5,ORD_005,2024-06-01,it017,1,5,Y,add5
