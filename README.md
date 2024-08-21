@@ -1,2 +1,2 @@
 # Benvenuto-Pizzeria-DB-Management
-Comprehensive SQL project for Benvenuto's Pizzeria, featuring relational database design and custom SQL queries for orders, inventory, and staff management.
+A comprehensive SQL project that involves designing a relational database and writing custom SQL queries for Benvenuto's Pizzeria. The project showcases database management skills, focusing on creating and managing tables for orders, inventory, and staff, as well as generating complex queries for data retrieval and analysis. This repository is part of a portfolio to demonstrate expertise in database design and SQL query development.
